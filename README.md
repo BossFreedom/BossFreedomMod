@@ -4,4 +4,4 @@ The public version of the FOPM: R is up to date as of:
 **Friday 29th May 2015 1:19:10pm** *(BST)*
 
 You can get a compiled version here:
-https://bitbucket.org/Camzie99/fopm-r-public/downloads
+https://github.com/RedTheDragon/FreedomOpMod-Remastered/releases
